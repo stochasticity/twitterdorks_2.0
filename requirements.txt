@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit
+selenium
+yt-dlp
+playwright
+
+
+# Common utilities
+asyncio
+requests
+nest_asyncio==1.6.0
+
+
+# Only needed for some logging or handling subprocess outputs
+rich
